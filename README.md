@@ -1,2 +1,3 @@
 # guessme
-My first project in python
+Guess Me is simple game created in Python
+
